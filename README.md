@@ -33,7 +33,7 @@
 </div>
 
 <p align="justify"> 
-    Venho me aprofundando no universo relacionado a programação back-end, portanto, criei esse GITHub para poder compartilhar informações que adiquiri nos últimos anos, as competências que possuo no momento e meus planos futuros.
+     Venho me aprofundando no universo relacionado a programação back-end, portanto, criei esse GITHub para poder compartilhar informações que adiquiri nos últimos anos, as competências que possuo no momento e meus planos futuros.
 </p>  
   
 <p align="justify">   
