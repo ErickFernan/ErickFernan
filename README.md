@@ -18,6 +18,7 @@
   <img align="center" alt="Erick_redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
   <img align="center" alt="Erick_fireb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="Erick_linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Erick_Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />  
     
 </div>
   
@@ -33,7 +34,7 @@
 </div>
 
 <p align="justify"> 
-     Venho me aprofundando no universo relacionado a programação back-end, portanto, criei esse GITHub para poder compartilhar informações que adiquiri nos últimos anos, as competências que possuo no momento e meus planos futuros.
+     Meu primeiro contato com programação ocorreu quando me ingresei no curso de Eng. Civil, 2014, onde uma discipliuna básica de programação era ministrada com o "Pascalzim'. No ano seguinte troquei de curso e fui para a Engenharia Elétrica (UFV) onde programar se tornou parte da minha rotina de estudante. Durante a graduação tive contato coms as linguagens "Python", "Ladder", "Assembly", "C#" e principalmente "Matlab" e desenvolvi diversos projetos, principalmente relacionados a Automação e Robótica. Hoje estou me adaptando para trabalhar profissionalmente como desenvolvedor e compartilharei minhas conquistas e estudos aqui.
 </p>  
   
 <p align="justify">   
