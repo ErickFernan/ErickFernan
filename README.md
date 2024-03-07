@@ -1,5 +1,5 @@
 
-## Olá eu sou o Erick, estou no último período de Engenharia Elétrica (UFV) e atualmente tenho me aprofundado no universo da programação.
+## Olá eu sou o Erick, sou formado Engenharia Elétrica (UFV), trabalho como Dev Back-end na empresa Nastek Industria e Tecnologia e venho me aprofundado no universo da programação.
 
 <div align="center">
   <a href="https://github.com/ErickFernan">
