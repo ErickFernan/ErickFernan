@@ -50,7 +50,7 @@
 
 ## 📂 Projetos em Destaque
 
-### 🛡️ [Arquitetura de Microsserviços para Petshop (Modular)](https://github.com/ErickFernan/APIPetShop)
+### 🛡️ [Arquitetura Desaclopada para Petshop (Modular)](https://github.com/ErickFernan/APIPetShop)
 *Django REST Framework, Docker, Keycloak, MinIO*
 
 Mais do que uma API de gestão, este projeto implementa uma **infraestrutura completa e desacoplada**, simulando um ambiente de produção real.
